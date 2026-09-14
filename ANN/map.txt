@@ -1,0 +1,19 @@
+ANN
+├── Perceptron
+├── Forward Propagation
+├── Activation Functions
+├── Loss Functions
+├── Backpropagation ⭐
+├── Gradient Descent ⭐
+├── Optimizers ⭐
+│   ├── SGD
+│   ├── Momentum
+│   ├── RMSprop
+│   └── Adam
+├── Learning Rate
+│
+├── Overfitting / Underfitting
+├── Regularization
+├── Dropout
+├── Batch Normalization
+└── Early Stopping
