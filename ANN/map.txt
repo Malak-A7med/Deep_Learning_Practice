@@ -17,3 +17,14 @@ ANN
 ├── Dropout
 ├── Batch Normalization
 └── Early Stopping
+
+
+
+Model Evaluation
+├── Train / Validation / Test
+├── Loss Curves
+├── Accuracy
+├── Precision
+├── Recall
+├── F1-score
+└── Confusion Matrix
